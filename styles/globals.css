@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+*:focus {
+  border: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+input {
+  display: block;
+}
